@@ -1,0 +1,8 @@
+tuple=('qwerty',876,3.432,'brawn',24.3242409)
+tinytuple=(123,'john')
+print (tuple)
+print (tinytuple*3)
+print (tuple[2:1])
+print (tuple+tinytuple)
+print (tuple+tinytuple*2)
+print (tinytuple[1:]+tuple[2:5])
